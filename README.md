@@ -1,1 +1,1 @@
-Codesoft JavaDevelopment intership tasks.
+Codesoft JavaDevelopment internship tasks.
